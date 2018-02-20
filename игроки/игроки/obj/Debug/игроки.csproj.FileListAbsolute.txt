@@ -1,0 +1,7 @@
+D:\zadania\игроки\игроки\bin\Debug\игроки.exe.config
+D:\zadania\игроки\игроки\bin\Debug\игроки.exe
+D:\zadania\игроки\игроки\bin\Debug\игроки.pdb
+D:\zadania\игроки\игроки\obj\Debug\игроки.csprojResolveAssemblyReference.cache
+D:\zadania\игроки\игроки\obj\Debug\игроки.csproj.CoreCompileInputs.cache
+D:\zadania\игроки\игроки\obj\Debug\игроки.exe
+D:\zadania\игроки\игроки\obj\Debug\игроки.pdb
